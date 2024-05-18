@@ -52,12 +52,6 @@ This project enhances the previous Python Address Book tasks with additional fun
 - Manually test the commands with various scenarios to ensure proper functionality and error handling.
 - Consider adding automated tests for comprehensive coverage.
 
-### Enhancements
-
-- Explore persistence mechanisms to save and load the address book data.
-- Implement a graphical user interface (GUI) for a more user-friendly experience.
-- Add features like contact search, group management, and birthday reminders.
-
 ### Conclusion
 
 This enhanced address book demonstrates the practical application of object-oriented programming and data validation in Python. It provides a solid foundation for building more complex and interactive applications.
